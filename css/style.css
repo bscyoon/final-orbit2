@@ -61,7 +61,7 @@ background: #ffffff
 width: 497px;
 height: 83px;
 left: 648px;
-top: 1000px;
+top: 800px;
 
 font-family: 'Kodchasan';
 font-style: normal;
@@ -82,7 +82,7 @@ color: #212429;
 width: 668px;
 height: 420px;
 left: 135px;
-top: 1400px;
+top: 1200px;
 
 font-family: 'Roboto';
 font-style: normal;
@@ -211,10 +211,9 @@ color: #212429;
 }
 .row5 {
   display:flex;
-  margin-right: 416px;
-  margin-left: 166px;
+  
 }
-.col-lg-4{
+.col-lg-9{
   -webkit-box-flex: 0;
   -ms-flex: 0 0 33.333333%;
   flex: 0 0 33.333333%;
@@ -228,13 +227,17 @@ top: 400px;
 margin-left: 5%;
 margin-right: auto;
 
-background: #DDEEDE;
+background: #FEA115;
 border-radius: 20px;
 }
 
 
 #row3 {
   width: 100%;
+  width: 1728px;
+height: 1068px;
+left: 0px;
+top: 1744px;
 }
 
 
